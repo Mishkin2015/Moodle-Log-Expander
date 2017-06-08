@@ -5,6 +5,7 @@
             "username": "test_username",
             "lang": "en",
             "fullname": "test_fullname",
+            "email":"test@test.com",
             "password": "topsecret"
         }
     ],
