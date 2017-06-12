@@ -1,3 +1,6 @@
+# Deprecated
+This Github repository has now been combined into the [main plugin repository](https://github.com/xAPI-vle/moodle-logstore_xapi).
+
 # [Log Expander](https://github.com/LearningLocker/Moodle-Log-Expander)
 > Expands events from the [Moodle](https://moodle.org/) Logstore with data from the Moodle `DB`.
 
